@@ -13,6 +13,7 @@ DiffEqRxn : A Faster Way To Write Mass Action Kinetics!
    theory
    model-holes
    nonlinearity
+   parameter-dependencies
    exporting
 
 
