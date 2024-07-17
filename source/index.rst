@@ -15,6 +15,7 @@ DiffEqRxn : A Faster Way To Write Mass Action Kinetics!
    nonlinearity
    parameter-dependencies
    exporting
+   editors
 
 
 What is DiffEqRxn?

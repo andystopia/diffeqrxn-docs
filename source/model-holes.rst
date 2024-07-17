@@ -52,7 +52,7 @@ Expressed in differential equations this statement is equivalent to:
 Moving chemicals into the ``void``
 ----------------------------------
 
-If we need a chemical to be lost at a certain rate, we can send it to the void: 
+If we need a chemical to be lost at a certain rate, but not be converted to another chemical, we can send it to the void: 
 
 .. code :: text
 

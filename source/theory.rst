@@ -2,8 +2,7 @@ A Single Source Of Truth
 ========================
 
 DiffEqRxn has a model definition file that is written 
-in a plaintext format with an extension of rxn. A helix 
-configuration and a syntax highlighting are provided at (fill this in later).
+in a plaintext format with an extension of rxn. 
 
 
 The model file is one chemical reaction per line.
