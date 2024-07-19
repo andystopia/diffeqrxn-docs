@@ -6,6 +6,10 @@
 DiffEqRxn : A Faster Way To Write Mass Action Kinetics!
 #######################################################
 
+
+.. raw :: html
+   :file: model-splash.svg
+
 .. toctree::
    :maxdepth: 2
 
@@ -18,11 +22,14 @@ DiffEqRxn : A Faster Way To Write Mass Action Kinetics!
    editors
 
 
+
 What is DiffEqRxn?
 ******************
 
 It's a way to represent a mass action model textually and then export
 equivalent forms to typesetters and programming languages.
+
+
 
 Why create DiffEqRxn?
 *********************
